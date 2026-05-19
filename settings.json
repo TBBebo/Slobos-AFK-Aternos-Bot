@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "king empire",
+    "username": "kingempire",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "KingEmpireSmp.aternos.me",
     "port": 21554,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
